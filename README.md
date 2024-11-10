@@ -1,6 +1,3 @@
-Claro! Vamos adicionar explicações de vetores e matrizes junto aos outros tópicos de forma sequencial e detalhada para ajudar no entendimento dos conceitos em Python e seu uso em algoritmos.
-
----
 
 ### 1. **Tipos de Dados**
 
